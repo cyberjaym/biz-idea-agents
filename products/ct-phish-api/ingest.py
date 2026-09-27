@@ -22,6 +22,17 @@ Two source modes:
                contain the brand keyword as a substring) can be demonstrated
                end-to-end without live network access. It is synthetic
                demo data and is always labeled with source="sample".
+
+  - "ctlog":   real RFC 6962 tailer (see ctlog.py) against a single live CT
+               log's own get-sth/get-entries HTTP API -- no third-party
+               aggregator in the loop. This is the mode that can actually
+               catch pure character-substitution/homoglyph typosquats
+               (paypa1.com) that crt.sh's substring search structurally
+               cannot, because it inspects every certificate a log emits
+               rather than searching for a keyword match. Polls a bounded
+               batch of new entries per cycle and tracks progress in
+               db.ctlog_state so repeated polls don't re-fetch old entries.
+               See README for exactly what was verified offline vs. live.
 """
 from __future__ import annotations
 
@@ -31,12 +42,22 @@ import time
 
 import requests
 
+import ctlog
 import db
 from permutations import generate_label_permutations, classify_domain
 
 CRTSH_URL = "https://crt.sh/"
 CRTSH_TIMEOUT_SECONDS = 20
 SAMPLE_FILE = os.path.join(os.path.dirname(__file__), "sample_data", "sample_certs.jsonl")
+
+# CT log to tail for mode=ctlog. Configurable because CT logs get
+# decommissioned/rotated over time -- verify against
+# https://www.gstatic.com/ct/log_list/v3/log_list.json before relying on the
+# default in production.
+CTLOG_BASE_URL = os.environ.get("CT_LOG_BASE_URL", ctlog.DEFAULT_BASE_URL)
+# Bounded batch size per poll cycle -- see README "rate/volume handling" for
+# why this is nowhere near enough to keep up with full CT log volume.
+CTLOG_BATCH_SIZE = int(os.environ.get("CT_LOG_BATCH_SIZE", "500"))
 
 _permutation_cache: dict[str, dict] = {}
 
@@ -71,6 +92,45 @@ def fetch_from_crtsh(keyword: str) -> list[dict]:
                 continue
             seen[name] = {"domain": name, "issuer": issuer, "cert_seen_at": seen_at}
     return list(seen.values())
+
+
+def fetch_from_ctlog(base_url: str = CTLOG_BASE_URL, batch_size: int = CTLOG_BATCH_SIZE) -> list[dict]:
+    """Pull up to `batch_size` new entries from the CT log at `base_url`
+    since the last recorded position, parse each into domains, and advance
+    the stored position. Returns a list of {"domain", "issuer",
+    "cert_seen_at"} dicts (one per domain per certificate -- a single cert
+    with multiple SANs yields multiple records, same shape as the other
+    modes). Raises requests.RequestException on get-sth/get-entries failure,
+    same "surface the real error, don't fake data" contract as crt.sh mode.
+    """
+    sth = ctlog.fetch_sth(base_url)
+    tree_size = sth["tree_size"]
+
+    last_index = db.get_ctlog_state(base_url)
+    start = last_index + 1
+    if start >= tree_size:
+        return []  # already caught up to the log's current tree head
+
+    end = min(start + batch_size - 1, tree_size - 1)
+    entries = ctlog.fetch_entries(base_url, start, end)
+
+    records = []
+    processed_index = last_index
+    for offset, entry in enumerate(entries):
+        idx = start + offset
+        try:
+            domains, issuer, cert_seen_at = ctlog.domains_from_get_entries_item(entry)
+        except (ctlog.MerkleLeafParseError, ValueError):
+            # A malformed/unexpected entry shouldn't stall the whole poller --
+            # skip it but still advance past it so we don't retry forever.
+            processed_index = idx
+            continue
+        for domain in domains:
+            records.append({"domain": domain, "issuer": issuer, "cert_seen_at": cert_seen_at})
+        processed_index = idx
+
+    db.set_ctlog_state(base_url, processed_index)
+    return records
 
 
 def fetch_from_sample() -> list[dict]:
@@ -121,6 +181,8 @@ def run_ingest_cycle(mode: str = "sample") -> dict:
     mode="sample" -> full permutation engine against the bundled sample batch,
                       checked against every registered brand.
     mode="crtsh"  -> one live crt.sh substring query per registered brand.
+    mode="ctlog"  -> one bounded batch of new entries from a live CT log,
+                      checked against every registered brand.
     """
     brands = db.list_brands()
     if not brands:
@@ -151,6 +213,24 @@ def run_ingest_cycle(mode: str = "sample") -> dict:
                 if m:
                     matches.append(m)
             time.sleep(1)  # be polite to the free public endpoint
+
+    elif mode == "ctlog":
+        try:
+            records = fetch_from_ctlog(CTLOG_BASE_URL, batch_size=CTLOG_BATCH_SIZE)
+        except requests.RequestException as exc:
+            return {
+                "mode": mode,
+                "brands_checked": len(brands),
+                "domains_checked": 0,
+                "new_alerts": 0,
+                "matches": [{"error": f"ctlog request failed ({CTLOG_BASE_URL}): {exc}"}],
+            }
+        domains_checked = len(records)
+        for record in records:
+            for brand in brands:
+                m = _process_domain_against_brand(record, brand, source="ctlog")
+                if m:
+                    matches.append(m)
 
     else:
         raise ValueError(f"unknown mode: {mode}")

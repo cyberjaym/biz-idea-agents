@@ -5,7 +5,7 @@ Endpoints:
   POST /brands              {"keyword": "...", "owner": "...", "legit_domains": ["..."]}
   GET  /brands
   GET  /alerts?brand=X&match_type=Y&min_confidence=0.8
-  POST /ingest/run?mode=sample|crtsh   -- trigger one ingestion cycle synchronously
+  POST /ingest/run?mode=sample|crtsh|ctlog   -- trigger one ingestion cycle synchronously
 """
 from __future__ import annotations
 
@@ -58,8 +58,8 @@ def get_alerts():
 @app.post("/ingest/run")
 def ingest_run():
     mode = request.args.get("mode", "sample")
-    if mode not in ("sample", "crtsh"):
-        return jsonify({"error": "mode must be 'sample' or 'crtsh'"}), 400
+    if mode not in ("sample", "crtsh", "ctlog"):
+        return jsonify({"error": "mode must be 'sample', 'crtsh', or 'ctlog'"}), 400
     summary = run_ingest_cycle(mode=mode)
     return jsonify(summary)
 

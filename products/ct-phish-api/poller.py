@@ -18,7 +18,7 @@ from ingest import run_ingest_cycle
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mode", choices=["sample", "crtsh"], default="crtsh")
+    parser.add_argument("--mode", choices=["sample", "crtsh", "ctlog"], default="crtsh")
     parser.add_argument("--interval", type=int, default=300, help="seconds between poll cycles")
     args = parser.parse_args()
 

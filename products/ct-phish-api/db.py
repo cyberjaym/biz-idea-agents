@@ -30,6 +30,14 @@ CREATE TABLE IF NOT EXISTS alerts (
     created_at TEXT NOT NULL,
     UNIQUE(brand_id, domain)
 );
+
+-- Tracks incremental polling progress per CT log so mode=ctlog only ever
+-- fetches entries appended since the last cycle, not the whole log.
+CREATE TABLE IF NOT EXISTS ctlog_state (
+    log_url TEXT PRIMARY KEY,
+    last_processed_index INTEGER NOT NULL,
+    updated_at TEXT NOT NULL
+);
 """
 
 
@@ -146,5 +154,35 @@ def list_alerts(brand: str | None = None, match_type: str | None = None, min_con
         query += " ORDER BY created_at DESC"
         rows = conn.execute(query, params).fetchall()
         return [dict(r) for r in rows]
+    finally:
+        conn.close()
+
+
+def get_ctlog_state(log_url: str) -> int:
+    """Return the index of the last CT log entry already processed for this
+    log, or -1 if this log has never been polled before (i.e. next fetch
+    should start at index 0)."""
+    conn = get_conn()
+    try:
+        row = conn.execute(
+            "SELECT last_processed_index FROM ctlog_state WHERE log_url = ?", (log_url,)
+        ).fetchone()
+        return row["last_processed_index"] if row else -1
+    finally:
+        conn.close()
+
+
+def set_ctlog_state(log_url: str, last_processed_index: int) -> None:
+    conn = get_conn()
+    try:
+        conn.execute(
+            """INSERT INTO ctlog_state (log_url, last_processed_index, updated_at)
+               VALUES (?, ?, ?)
+               ON CONFLICT(log_url) DO UPDATE SET
+                   last_processed_index = excluded.last_processed_index,
+                   updated_at = excluded.updated_at""",
+            (log_url, last_processed_index, _now()),
+        )
+        conn.commit()
     finally:
         conn.close()
