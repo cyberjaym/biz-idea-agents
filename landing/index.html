@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RoyaltyStack — Get early access</title>
+  <meta name="description" content="RoyaltyStack turns your Etsy, Gumroad, Payhip, and Creative Fabrica payout CSVs into one earnings dashboard and a tax-ready summary. Join the waitlist." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <span class="eyebrow">RoyaltyStack</span>
+      <h1>Four platforms. Four CSV formats. One tax-season headache.</h1>
+      <p class="subhead">
+        RoyaltyStack takes the payout files you already download from Etsy, Gumroad, Payhip, and Creative Fabrica
+        and turns them into one earnings dashboard and a tax-ready summary. No bank linking, no API keys, no
+        connecting your seller accounts — just upload the CSVs you already have.
+      </p>
+    </header>
+
+    <section>
+      <h2>Why sellers need this</h2>
+      <ul class="benefits">
+        <li>Stop rebuilding the same spreadsheet every time a platform pays out on its own schedule.</li>
+        <li>See what you actually made this month across every shop, without opening four separate dashboards.</li>
+        <li>Walk into tax season with one summary instead of hunting down four different payout histories and 1099s.</li>
+        <li>No account linking required — you upload the exports you already download, nothing connects directly to your storefronts.</li>
+        <li>Built specifically for sellers stacking templates, printables, planners, and patterns across this exact mix of platforms — not a generic multi-platform tool that half-fits your setup.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>How it will work</h2>
+      <ol class="steps">
+        <li>Export your payout CSV from each storefront — the same file you already download.</li>
+        <li>Upload them to RoyaltyStack.</li>
+        <li>Get one normalized earnings dashboard, plus a quarterly tax-summary export when you need it.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Pricing</h2>
+      <p class="pricing">
+        <strong>$9-19/month</strong> or about <strong>$79/year</strong> at launch, with an optional
+        <strong>$20 one-time</strong> quarterly tax-summary export. Join early and your price gets locked in at launch.
+      </p>
+    </section>
+
+    <section class="waitlist-card" id="waitlist">
+      <h2>Get early access</h2>
+      <p>Join the waitlist — we'll email you the moment RoyaltyStack is ready, and early sign-ups keep launch pricing for good.</p>
+
+      <!--
+        This form uses Netlify Forms. It works automatically once this site is deployed
+        on Netlify's free tier — no backend, no database, and no paid service required.
+        Netlify detects the data-netlify="true" attribute at deploy time, and submissions
+        appear in the site's dashboard under Forms.
+      -->
+      <form
+        name="waitlist"
+        method="POST"
+        data-netlify="true"
+        netlify-honeypot="bot-field"
+        class="waitlist-form"
+      >
+        <input type="hidden" name="form-name" value="waitlist" />
+        <p class="hidden">
+          <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+        </p>
+        <input
+          type="email"
+          name="email"
+          placeholder="you@example.com"
+          required
+          aria-label="Email address"
+        />
+        <button type="submit">Get early access</button>
+      </form>
+
+      <p class="objection">
+        No, this doesn't link to your bank or seller accounts — you upload the CSV exports you already have,
+        and that's the whole setup.
+      </p>
+    </section>
+
+    <footer>
+      &copy; 2026 RoyaltyStack. Pre-launch waitlist page.
+    </footer>
+  </div>
+</body>
+</html>
