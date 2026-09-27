@@ -1,0 +1,29 @@
+{"domain": "paypa1.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T03:14:11Z"}
+{"domain": "paypall.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T04:02:55Z"}
+{"domain": "paypal-login.com", "issuer": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA", "cert_seen_at": "2026-09-20T05:47:02Z"}
+{"domain": "secure-paypal.net", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T06:12:40Z"}
+{"domain": "paypal.info", "issuer": "C=GB, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA", "cert_seen_at": "2026-09-20T07:33:19Z"}
+{"domain": "pyapal.com", "issuer": "C=US, O=Let's Encrypt, CN=R10", "cert_seen_at": "2026-09-20T08:05:51Z"}
+{"domain": "paypl.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T09:44:23Z"}
+{"domain": "paypal-verify.xyz", "issuer": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA", "cert_seen_at": "2026-09-20T10:15:07Z"}
+{"domain": "chse.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-21T01:22:18Z"}
+{"domain": "ch4se.com", "issuer": "C=US, O=Let's Encrypt, CN=R10", "cert_seen_at": "2026-09-21T02:47:33Z"}
+{"domain": "chase-online.com", "issuer": "C=GB, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA", "cert_seen_at": "2026-09-21T03:09:59Z"}
+{"domain": "chase.top", "issuer": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA", "cert_seen_at": "2026-09-21T04:55:14Z"}
+{"domain": "netf1ix.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-22T00:10:02Z"}
+{"domain": "netflix-account.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-22T01:31:47Z"}
+{"domain": "netlfix.com", "issuer": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA", "cert_seen_at": "2026-09-22T02:58:20Z"}
+{"domain": "netflix.xyz", "issuer": "C=GB, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA", "cert_seen_at": "2026-09-22T03:40:36Z"}
+{"domain": "google.com", "issuer": "C=US, O=Google Trust Services, CN=WR2", "cert_seen_at": "2026-09-20T00:01:12Z"}
+{"domain": "github.com", "issuer": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1", "cert_seen_at": "2026-09-20T00:03:44Z"}
+{"domain": "wikipedia.org", "issuer": "C=US, O=Let's Encrypt, CN=R10", "cert_seen_at": "2026-09-20T00:06:19Z"}
+{"domain": "example.org", "issuer": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1", "cert_seen_at": "2026-09-20T00:09:02Z"}
+{"domain": "stripe.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T00:12:55Z"}
+{"domain": "sunrise-bakery.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T00:20:31Z"}
+{"domain": "acmewidgets.io", "issuer": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA", "cert_seen_at": "2026-09-20T00:24:47Z"}
+{"domain": "quantum-analytics.dev", "issuer": "C=US, O=Google Trust Services, CN=WR2", "cert_seen_at": "2026-09-20T00:31:08Z"}
+{"domain": "blue-harbor.net", "issuer": "C=US, O=Let's Encrypt, CN=R10", "cert_seen_at": "2026-09-20T00:39:52Z"}
+{"domain": "northfield-dental.com", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T00:45:16Z"}
+{"domain": "cascade-outdoors.co", "issuer": "C=US, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA", "cert_seen_at": "2026-09-20T00:52:03Z"}
+{"domain": "pixelforge.studio", "issuer": "C=US, O=Let's Encrypt, CN=R11", "cert_seen_at": "2026-09-20T00:58:27Z"}
+{"domain": "harbor-notary.com", "issuer": "C=US, O=Let's Encrypt, CN=R10", "cert_seen_at": "2026-09-20T01:04:39Z"}
