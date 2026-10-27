@@ -1,0 +1,186 @@
+{
+  "run": "2026-10-27g",
+  "user_input": "Model = software I sell + AI-powered service; no industry/customer preference",
+  "evidence": [
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://www.duanemorris.com/alerts/doj_extends_ada_title_ii_digital_accessibility_deadlines_one_year_0426.html",
+      "title": "DOJ extends ADA Title II deadlines one year",
+      "quote": "April 26, 2027 (50k+ population); April 26, 2028 (smaller)",
+      "date": "2026-04",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://www.deque.com/blog/section-504-digital-accessibility-deadlines-what-every-hhs-funded-provider-must-know/",
+      "title": "Section 504 digital accessibility deadlines (Deque)",
+      "quote": "what every HHS-funded provider must know",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://accessibility.build/blog/hhs-extends-section-504-healthcare-accessibility-deadline",
+      "title": "HHS Delays Section 504 Web Accessibility Deadline",
+      "quote": "May 11, 2027 for providers with 15 or more employees",
+      "date": "2026-05",
+      "upvotes": null,
+      "source_type": "blog",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://www.insidehighered.com/news/government/colleges-localities/2026/01/21/higher-ed-prepares-new-era-ada",
+      "title": "Higher Ed Prepares for New Era of Accessibility (Inside Higher Ed)",
+      "quote": "Higher Ed Prepares for New Era of Accessibility",
+      "date": "2026-01-21",
+      "upvotes": null,
+      "source_type": "news",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://venngage.com/blog/reduce-pdf-remediation-costs/",
+      "title": "How Colleges Can Reduce PDF Remediation Costs",
+      "quote": "$5 per page—or roughly $20 million",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "blog",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://casocomply.com/services/pdf-remediation",
+      "title": "CASO Comply PDF remediation",
+      "quote": "From $0.30/Page",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "accessibility-wave",
+      "url": "https://accessibilityondemand.ai/",
+      "title": "Accessibility on Demand",
+      "quote": "$0.30 per page for Level 1, $1.80 for Level 2",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "acr-vpat",
+      "url": "https://acrdesk.com/",
+      "title": "ACR Desk",
+      "quote": "$1,490 fixed for a WCAG-edition ACR",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "acr-vpat",
+      "url": "https://www.adacompliancepros.com/blog/vpat-cost",
+      "title": "VPAT Cost",
+      "quote": "$1,850 to $4,450, including the audit",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "acr-vpat",
+      "url": "https://www.ou.edu/digital-accessibility/taskforce",
+      "title": "University of Oklahoma digital accessibility",
+      "quote": "required to ensure that the software meets digital accessibility criteria",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "university",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "security-questionnaires",
+      "url": "https://accountmade.com/blog/security-questionnaire-software-startups-small-teams",
+      "title": "Security Questionnaire Software for Startups",
+      "quote": "$33,000/year median (Vendr)",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "security-questionnaires",
+      "url": "https://autorfp.ai/blog/best-security-questionnaire-software",
+      "title": "Best Security Questionnaire Software 2026",
+      "quote": "Loopio at a $20,000/year floor",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "security-questionnaires",
+      "url": "https://responsehub.ai/blog/7-best-security-questionnaire-automation-software-2026/",
+      "title": "ResponseHub",
+      "quote": "$149 per month on the Starter plan",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "permit-corrections",
+      "url": "https://permitplace.com/permit-expediter-cost-guide/",
+      "title": "Permit Expediter Cost: $500-$15,000+",
+      "quote": "$500-$15,000+",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "permit-corrections",
+      "url": "https://www.theaiconsultingnetwork.com/blog/ai-permit-tracking-expediting-cre-projects-2026",
+      "title": "AI Permit Tracking for CRE",
+      "quote": "often half the total elapsed delay",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "blog",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "insurance-policy-checking",
+      "url": "https://www.resourcepro.com/blogs/why-ai-in-insurance-agencies-is-defining-2026",
+      "title": "Why AI in insurance agencies is defining 2026 (ReSource Pro)",
+      "quote": "98% of insurance agencies plan AI investments in 2026",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "insurance-policy-checking",
+      "url": "https://www.exdioninsurance.com/blog/automated-insurance-policy-checking-with-ai-powered-tools/",
+      "title": "Exdion AI policy checking",
+      "quote": "flat fee and pay-per-use models",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "macro",
+      "url": "https://www.eglobalis.com/services-as-software-what-happens-to-your-vendor-when-ai-eats-the-billable-hour/",
+      "title": "Services-as-Software: When AI Eats the Billable Hour",
+      "quote": "When AI Eats the Billable Hour",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "analysis",
+      "attribution_confidence": "high"
+    }
+  ]
+}

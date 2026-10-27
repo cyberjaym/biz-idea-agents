@@ -1,0 +1,82 @@
+{
+  "ranked": [
+    {
+      "slug": "acrexpress",
+      "name": "ACR Express",
+      "scores": {
+        "demand": 8,
+        "wtp": 8,
+        "gap": 5,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.8
+    },
+    {
+      "slug": "questionnairedone",
+      "name": "QuestionnaireDone",
+      "scores": {
+        "demand": 7,
+        "wtp": 8,
+        "gap": 5,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.6
+    },
+    {
+      "slug": "docready",
+      "name": "DocReady (PDF remediation)",
+      "scores": {
+        "demand": 9,
+        "wtp": 8,
+        "gap": 4,
+        "buildability": 6,
+        "distribution": 5
+      },
+      "total": 6.4
+    },
+    {
+      "slug": "formready",
+      "name": "FormReady (504 patient forms)",
+      "scores": {
+        "demand": 8,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 6,
+        "distribution": 5
+      },
+      "total": 6.2
+    },
+    {
+      "slug": "policycheck",
+      "name": "PolicyCheck AI",
+      "scores": {
+        "demand": 7,
+        "wtp": 8,
+        "gap": 6,
+        "buildability": 5,
+        "distribution": 5
+      },
+      "total": 6.2
+    },
+    {
+      "slug": "permitreply",
+      "name": "PermitReply",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 6,
+        "buildability": 5,
+        "distribution": 5
+      },
+      "total": 6.0
+    }
+  ],
+  "also_ai_service_from_earlier": [
+    "VibeRescue 6.6",
+    "HireNotice 6.6",
+    "BillBack 6.0"
+  ],
+  "any_above_threshold": false
+}
