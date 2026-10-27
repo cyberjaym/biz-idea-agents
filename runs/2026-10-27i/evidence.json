@@ -1,0 +1,145 @@
+{
+  "run": "2026-10-27i",
+  "evidence": [
+    {
+      "cluster": "letters-to-book",
+      "url": "https://4everbound.com/pages/legacypreserve",
+      "title": "4everBound LegacyPreserve",
+      "quote": "$449 deposit",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "letters-to-book",
+      "url": "https://www.handwritingocr.com/personal-handwriting-ocr",
+      "title": "Handwriting OCR personal",
+      "quote": "translate an old French, German, or Italian family letter into readable English",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "letters-to-book",
+      "url": "https://www.transkribus.org/pricing",
+      "title": "Transkribus pricing",
+      "quote": "Scholar plan at €99 per year",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "letters-to-book",
+      "url": "https://ancestoriq.com/blog/transkribus-review/",
+      "title": "Transkribus, reviewed (AncestorIQ)",
+      "quote": "the handwriting AI built for archives",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "review",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "trade-exam-prep",
+      "url": "https://insights.tradesmanpass.com/journeyman-electrician-exam-pass-rates-by-state-2026-statist/",
+      "title": "Journeyman Electrician Exam Pass Rates by State (2026)",
+      "quote": "Texas at 27.86% across 8,490 attempts",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "trade-exam-prep",
+      "url": "https://www.tdlr.texas.gov/electricians/agendas/2026-05-12-elc-staff-reports.pdf",
+      "title": "TDLR Electrical Safety and Licensing staff report (May 2026)",
+      "quote": "master calculations pass rate near 18–19%",
+      "date": "2026-05-12",
+      "upvotes": null,
+      "source_type": "government",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "trade-exam-prep",
+      "url": "https://open-exam-prep.com/blog/best-nec-code-tab-set-electrician-exam-2026",
+      "title": "5 Best NEC Code Tab Sets (2026)",
+      "quote": "tabs save 10-15 seconds per lookup",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "sbir-proposals",
+      "url": "https://www.getcada.com/post/how-much-does-grant-consultant-cost",
+      "title": "Grant Consultant Cost (2026)",
+      "quote": "$5,000 to $25,000 per application",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "sbir-proposals",
+      "url": "https://sbirgrantwriters.com/",
+      "title": "SBIR Grant Writers",
+      "quote": "$5,495 for an NIH SBIR Phase I application",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "sbir-proposals",
+      "url": "https://grantedai.com/blog/best-ai-grant-writing-tools-2026",
+      "title": "7 AI Grant Writing Tools Tested (2026)",
+      "quote": "Tested on Real NIH, NSF, and SBIR Proposals",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "clinician-credentialing",
+      "url": "https://www.mentalyc.com/blog/best-credentialing-services-for-mental-health-providers",
+      "title": "Best Mental Health Credentialing Services 2026",
+      "quote": "$79 to $450 a payer",
+      "date": "2026-10",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "clinician-credentialing",
+      "url": "https://www.getpaneled.com/resources/how-much-does-insurance-credentialing-cost-for-therapists",
+      "title": "How Much Does Credentialing Cost for Therapists",
+      "quote": "60 to 120 days",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:hts-classification",
+      "url": "https://www.tarifflens.ai/blog/best-ai-hts-classification-tools-2026",
+      "title": "11 Best HTS Classification Tools 2026",
+      "quote": "Ranked",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:recruiting-highlights",
+      "url": "https://prospectreels.com/pricing/",
+      "title": "ProspectReels pricing",
+      "quote": "one-time fee of $149",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    }
+  ]
+}
