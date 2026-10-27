@@ -1,0 +1,154 @@
+{
+  "ranked_new": [
+    {
+      "slug": "offramp",
+      "name": "Offramp",
+      "model": "consumer subscription",
+      "upside": "L",
+      "scores": {
+        "demand": 8,
+        "wtp": 6,
+        "gap": 6,
+        "buildability": 7,
+        "distribution": 7
+      },
+      "total": 6.8
+    },
+    {
+      "slug": "premiumshield",
+      "name": "PremiumShield",
+      "model": "lead-gen + freemium",
+      "upside": "L",
+      "scores": {
+        "demand": 8,
+        "wtp": 6,
+        "gap": 7,
+        "buildability": 6,
+        "distribution": 7
+      },
+      "total": 6.8
+    },
+    {
+      "slug": "clubfuel",
+      "name": "ClubFuel",
+      "model": "marketplace take-rate",
+      "upside": "L",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 7,
+        "buildability": 6,
+        "distribution": 6
+      },
+      "total": 6.6
+    },
+    {
+      "slug": "solarorphan",
+      "name": "SolarOrphan",
+      "model": "lead-gen + monitoring sub",
+      "upside": "M",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 6,
+        "buildability": 6,
+        "distribution": 7
+      },
+      "total": 6.6
+    },
+    {
+      "slug": "viberescue",
+      "name": "VibeRescue",
+      "model": "productized service + scanner",
+      "upside": "M",
+      "scores": {
+        "demand": 8,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.6
+    },
+    {
+      "slug": "billback",
+      "name": "BillBack",
+      "model": "contingency fee",
+      "upside": "M",
+      "scores": {
+        "demand": 6,
+        "wtp": 8,
+        "gap": 6,
+        "buildability": 5,
+        "distribution": 5
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "phonepact",
+      "name": "PhonePact",
+      "model": "freemium + affiliate",
+      "upside": "M",
+      "scores": {
+        "demand": 7,
+        "wtp": 4,
+        "gap": 4,
+        "buildability": 8,
+        "distribution": 7
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "parentdesk",
+      "name": "ParentDesk",
+      "model": "consumer subscription",
+      "upside": "L",
+      "scores": {
+        "demand": 8,
+        "wtp": 6,
+        "gap": 4,
+        "buildability": 6,
+        "distribution": 5
+      },
+      "total": 5.8
+    },
+    {
+      "slug": "shortsstudio",
+      "name": "ShortsStudio",
+      "model": "content/IP",
+      "upside": "L",
+      "scores": {
+        "demand": 8,
+        "wtp": 5,
+        "gap": 4,
+        "buildability": 5,
+        "distribution": 6
+      },
+      "total": 5.6
+    }
+  ],
+  "carried": [
+    {
+      "name": "HireNotice",
+      "total": 6.6
+    },
+    {
+      "name": "AfterPub",
+      "total": 6.4
+    },
+    {
+      "name": "HRIS Lint",
+      "total": 6.4
+    }
+  ],
+  "rejected": {
+    "car-deal-checker": "Vettor, Validate My Car Deal, Visor, CarEdge",
+    "ncsa-alternative": "NextCommit, Rosterhunter, SportsRecruits",
+    "vibe-security-scanner": "VAS, CheckVibe, VibeEval, Lovable built-in (pivoted to rescue/maintenance instead)",
+    "local-gov-ai-news": "Hamlet, Citizen Portal AI, Locunity",
+    "reshoring-sourcing": "two-sided heavy; Reshore.com, Wonnda",
+    "pokemon-tools": "no gap evidence found",
+    "pet-tech": "no gap evidence found"
+  },
+  "any_above_threshold": false
+}

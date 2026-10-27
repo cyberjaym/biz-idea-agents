@@ -1,0 +1,32 @@
+{
+  "offramp": [
+    "offramp.health",
+    "offrampapp.com",
+    "afterglp.com"
+  ],
+  "premiumshield": [
+    "premiumshield.app",
+    "lowermypremium.com",
+    "mitigationfinder.com"
+  ],
+  "clubfuel": [
+    "clubfuel.co",
+    "clubfuel.app",
+    "sponsormyclub.com"
+  ],
+  "solarorphan": [
+    "solarorphan.com",
+    "orphansolar.app",
+    "solarlifeline.com"
+  ],
+  "viberescue": [
+    "viberescue.dev",
+    "viberescue.com",
+    "keepmyappalive.com"
+  ],
+  "billback": [
+    "billback.ai",
+    "billback.app",
+    "utilityrefund.app"
+  ]
+}
