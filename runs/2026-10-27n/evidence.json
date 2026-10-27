@@ -1,0 +1,126 @@
+{
+  "run": "2026-10-27n",
+  "focus": "youth sports (user request)",
+  "evidence": [
+    {
+      "cluster": "macro",
+      "url": "https://projectplay.org/news/2025/2/24/project-play-survey-family-spending-on-youth-sports-rises-46-over-five-years",
+      "title": "Project Play: family spending rises 46% over five years",
+      "quote": "Average spending on a child's primary sport reached $1,016 in 2024",
+      "date": "2025-02",
+      "upvotes": null,
+      "source_type": "research",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "court-time",
+      "url": "https://klin.com/2026/10/15/proposed-lincoln-volleyball-complex-aims-to-expand-youth-access/",
+      "title": "Proposed Lincoln Volleyball Complex Aims to Expand Youth Access (KLIN)",
+      "quote": "unable to serve every child who wants to play",
+      "date": "2026-10-15",
+      "upvotes": null,
+      "source_type": "news",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "court-time",
+      "url": "https://wwmt.com/news/local/kalamazoo-indoor-sports-facility-photos-groundbreaking-youth-complex-tournaments-play-economic-impact-basketball-tennis-gymnastics-volleyball-courts-wwmt",
+      "title": "Kalamazoo $49M youth sports complex (WWMT)",
+      "quote": "limited court time has capped his club at about 200 kids",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "news",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "court-time",
+      "url": "https://sportsplanningguide.com/state-of-volleyball/",
+      "title": "Volleyball Participation Boom",
+      "quote": "volleyball competes with basketball for court availability",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "trade",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "stay-to-play",
+      "url": "https://dailycaller.com/2026/10/18/parents-sue-over-youth-sports-hotel-fees-and-booking-rules/",
+      "title": "Parents sue over youth sports hotel fees and booking rules",
+      "quote": "Threatened Their Kids' Playing Status If They Didn't Pay Lodging Fees",
+      "date": "2026-10-18",
+      "upvotes": null,
+      "source_type": "news",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "stay-to-play",
+      "url": "https://www.buyingsandlot.com/p/youth-sports-parents-sue-tournament-housing-firm-over-stay-to-play",
+      "title": "Youth Sports Parents Sue Tournament Housing Firm Over Stay-To-Play",
+      "quote": "Sue Tournament Housing Firm Over Stay-To-Play",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "newsletter",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "stay-to-play",
+      "url": "https://www.tulsakids.com/how-stay-to-play-squeezes-sports-parents/",
+      "title": "How Stay-to-Play Squeezes Sports Parents (TulsaKids)",
+      "quote": "How Stay-to-Play Squeezes Sports Parents",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "local-media",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "volunteer-coaches",
+      "url": "https://withcentro.com/blog/volunteer-coach-onboarding-soccer",
+      "title": "Volunteer Coach Onboarding for Soccer Clubs",
+      "quote": "fewer than 20% of youth coaches have received any formal training",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "volunteer-coaches",
+      "url": "https://hobbit.football/tools/ai-tools-for-youth-soccer-coaches",
+      "title": "Best AI Tools for Youth Soccer Coaches (2026)",
+      "quote": "Hobbit AI is $15/mo",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "volunteer-coaches",
+      "url": "https://www.practiceplan.app/",
+      "title": "Practice Plan App",
+      "quote": "Coach plan is $5.99/month",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:referee-scheduling",
+      "url": "https://refze.com/referee-shortage/",
+      "title": "Refze: referee shortage 2026",
+      "quote": "assigning one official to games that need three",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:coach-compliance",
+      "url": "https://www.ankored.com/youth-sports-compliance",
+      "title": "Ankored youth sports compliance",
+      "quote": "Youth Sports Compliance Software",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    }
+  ]
+}
