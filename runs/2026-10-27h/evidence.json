@@ -1,0 +1,156 @@
+{
+  "run": "2026-10-27h",
+  "focus": "AI-powered services, more spend pools",
+  "evidence": [
+    {
+      "cluster": "audio-description",
+      "url": "https://visonicai.com/stories/true-cost-of-audio-description-ai-vs-manual/",
+      "title": "The True Cost of Audio Description: AI vs. Manual in 2026",
+      "quote": "manual standard at $15-30, AI-powered at $5-15",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "audio-description",
+      "url": "https://harmonizelearning.com/blog/audio-descriptions-required-in-april-2026/",
+      "title": "Audio Descriptions required (Harmonize)",
+      "quote": "a mid-sized state university might have 2,000 videos averaging 10 minutes each",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "audio-description",
+      "url": "https://support.wistia.com/en/articles/8284318-audio-descriptions",
+      "title": "Wistia audio descriptions (3Play)",
+      "quote": "Standard AI audio description is 400 credits per minute",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "contents-claims",
+      "url": "https://uphelp.org/disaster-recovery-help/2026-colorado-wildfires-insurance-claim-and-recovery-help/",
+      "title": "2026 Colorado Wildfires - Insurance Claim and Recovery Help (United Policyholders)",
+      "quote": "must offer to pay you at least 65% of your contents coverage without requiring a home inventory",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "nonprofit",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "contents-claims",
+      "url": "https://forthepublicadjusters.com/blog/fire-damage-contents-inventory-guide/",
+      "title": "Fire Damage Contents Inventory: Room-by-Room Guide",
+      "quote": "the burden of proving that loss falls on you",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "pro-blog",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "contents-claims",
+      "url": "https://onehomeagent.com/blog/ai-home-inventory-insurance-claims/",
+      "title": "AI Home Inventory for Insurance Claims",
+      "quote": "homeowners reconstructing from memory typically forget roughly a third",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "contents-claims",
+      "url": "https://justclaims.ai/blog/personal-property-inventory-for-insurance/",
+      "title": "JustClaims: personal property inventory 2026",
+      "quote": "searching online retailers to help estimate replacement costs",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "hris-migration-validation",
+      "url": "https://www.settledata.com/migrate/ukg-to-workday",
+      "title": "Settle: UKG Pro to Workday Data Migration",
+      "quote": "roughly half the equivalent consulting-led cost",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "hris-migration-validation",
+      "url": "https://www.workstream.us/blog/ukg-pricing",
+      "title": "UKG Pricing 2026",
+      "quote": "data migration represents 40% of most UKG implementation budgets",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "blog",
+      "attribution_confidence": "low"
+    },
+    {
+      "cluster": "hris-migration-validation",
+      "url": "https://hrtechsaas.com/blog/hr-data-migration-guide/",
+      "title": "HR Data Migration guide",
+      "quote": "A migration without a parallel-run validation period is a bet.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "blog",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "hris-migration-validation",
+      "url": "https://www.roadmap-creator.com/blog/workday-implementation-plan",
+      "title": "Workday Implementation Plan",
+      "quote": "Compare the approved source baseline to the target after every mock conversion.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "fl-condo-buyer-report",
+      "url": "https://governingdocs.dev/blog/florida-condo-crisis-2026/",
+      "title": "Florida Condo Crisis 2026 (governingdocs)",
+      "quote": "56% of Miami-Dade Missed the SIRS Deadline",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "fl-condo-buyer-report",
+      "url": "https://www.thedempseylaw.com/blog/florida-condo-special-assessment-sirs-milestone-inspection-2026",
+      "title": "Florida Condo Laws 2026 (Dempsey Law)",
+      "quote": "SIRS, Milestone Inspections & Special Assessments",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "title-search",
+      "url": "https://neuskale.com/best-title-search-companies",
+      "title": "Neuskale",
+      "quote": "starting at $10 per document",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:freight-vetting",
+      "url": "https://pcssoft.com/blog/how-to-approach-carrier-vetting-in-2026/",
+      "title": "How to Approach Carrier Vetting in 2026",
+      "quote": "What Changed and What to Check",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "high"
+    }
+  ]
+}
