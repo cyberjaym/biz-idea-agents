@@ -1,0 +1,38 @@
+{
+  "ranked": [
+    {
+      "slug": "fccready",
+      "name": "FCCReady",
+      "scores": {
+        "demand": 6,
+        "wtp": 7,
+        "gap": 8,
+        "buildability": 7,
+        "distribution": 5
+      },
+      "total": 6.6
+    },
+    {
+      "slug": "ewsrescue",
+      "name": "EWS Rescue",
+      "scores": {
+        "demand": 7,
+        "wtp": 8,
+        "gap": 5,
+        "buildability": 4,
+        "distribution": 6
+      },
+      "total": 6.0
+    }
+  ],
+  "excluded_by_user_rule": {
+    "ca-saas-sales-tax-2027": "tax category excluded"
+  },
+  "rejected": {
+    "tcpa-revoke-all": "SMS/consent platforms handle it; date in flux",
+    "ccpa-sb923": "privacy tools (Termly, Osano) crowded",
+    "android-dev-verification": "no product wedge",
+    "openai-model-deprecations": "prompt-eval tools crowded",
+    "ca-2027-employment-laws": "HR compliance content crowded"
+  }
+}
