@@ -1,0 +1,79 @@
+{
+  "master_board_non_accounting": [
+    {
+      "name": "HireNotice",
+      "from_run": "run 5",
+      "total": 6.6
+    },
+    {
+      "name": "AfterPub",
+      "from_run": "run 2",
+      "total": 6.4
+    },
+    {
+      "name": "RenewDesk",
+      "from_run": "run 1",
+      "total": 6.4
+    },
+    {
+      "name": "HRIS Lint",
+      "from_run": "run 5",
+      "total": 6.4
+    },
+    {
+      "name": "HR Legacy Vault",
+      "from_run": "run 5",
+      "total": 6.0
+    },
+    {
+      "name": "InboxBridge",
+      "from_run": "run 4",
+      "total": 6.0
+    },
+    {
+      "name": "MarginGuard",
+      "from_run": "run 1",
+      "total": 6.0
+    },
+    {
+      "name": "RenewalProof",
+      "from_run": "run 1",
+      "total": 6.0
+    },
+    {
+      "name": "WeeblyRescue",
+      "from_run": "run 6 (new)",
+      "total": 5.4
+    },
+    {
+      "name": "TeamsExport",
+      "from_run": "run 6 (new)",
+      "total": 5.4
+    }
+  ],
+  "new_scores": {
+    "WeeblyRescue": {
+      "demand": 7,
+      "wtp": 4,
+      "gap": 4,
+      "buildability": 5,
+      "distribution": 7
+    },
+    "TeamsExport": {
+      "demand": 6,
+      "wtp": 6,
+      "gap": 5,
+      "buildability": 5,
+      "distribution": 5
+    }
+  },
+  "rejected": {
+    "coi-tracking": "SubDoc ($0-20), bcs (free to 25 vendors), COI File ($39+), TrackMyVendor",
+    "permit-status-monitoring": "ClearedNo, SignedOff, PermitRadar",
+    "lien-waivers": "LienDone $99, Contractor Foreman $49, QuoteIQ",
+    "3d-print-farm-ops": "Printago, SimplyPrint, Manuflo",
+    "homeschool-records": "10+ apps incl. free tiers",
+    "faire-alternative": "commission hike is unconfirmed rumor; Shopify B2B/Faire Direct exist",
+    "reddit-monitoring-tools": "data access closing (API Mar 2027) - not buildable"
+  }
+}

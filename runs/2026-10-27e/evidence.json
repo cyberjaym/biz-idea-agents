@@ -1,0 +1,148 @@
+{
+  "run": "2026-10-27e",
+  "evidence": [
+    {
+      "cluster": "weebly-67-country-shutdown",
+      "url": "https://www.networksolutions.com/help/article/weebly-website-discontinued",
+      "title": "Weebly website discontinuation: important dates",
+      "quote": "Account access and data export end December 26, 2026",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "platform-partner",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "weebly-67-country-shutdown",
+      "url": "https://figment.so/blog/weebly-shutting-down-save-your-site",
+      "title": "Weebly Shutting Down 2026 - Save Your Site (Figment)",
+      "quote": "Save Your Site",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "weebly-67-country-shutdown",
+      "url": "https://jethost.com/blog/weebly-shutdown-alternatives/",
+      "title": "Weebly Shutting Down: 6 Alternatives",
+      "quote": "6 Alternatives to Migrate Your Site To",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "teams-chat-export",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/5976106/microsoft-teams-how-to-save-or-export-a-chat",
+      "title": "Microsoft Teams - How to save or export a Chat? (MS Q&A)",
+      "quote": "How to save or export a Chat?",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "teams-chat-export",
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "quote": "ready to pay for a Teams conversation exporter but found no workable alternative",
+      "date": "2026-06",
+      "upvotes": null,
+      "source_type": "hacker-news",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "teams-chat-export",
+      "url": "https://www.smikar.com/export-teams-chat/",
+      "title": "Export Teams Chat (2026): Every Method That Works",
+      "quote": "Microsoft Teams has no export button for chats.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "reddit-api-closure",
+      "url": "https://tecniforge.com/reddit-api-shutdown-developers/",
+      "title": "Reddit API Shutdown: Developer Action Plan",
+      "quote": "RSS support ends on 13 November 2026. Public API access ends in March 2027.",
+      "date": "2026-09-30",
+      "upvotes": null,
+      "source_type": "blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:coi-tracking",
+      "url": "https://subdoc.io/blog/best-coi-tracking-software-small-general-contractors",
+      "title": "7 Best COI Tracking Tools for Small GCs (2026)",
+      "quote": "Pro tier is $20/month",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:permit-status",
+      "url": "https://www.clearedno.com/blog/permit-tracking-software-for-contractors",
+      "title": "Permit Tracking Software for Contractors (2026)",
+      "quote": "10–15 portal logins each morning",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:lien-waivers",
+      "url": "https://ustechautomations.com/resources/blog/construction-lien-waiver-software-comparison-2026",
+      "title": "Lien Waiver Software Comparison 2026",
+      "quote": "Lien Waiver Software Comparison",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:3d-print-farms",
+      "url": "https://manuflo.app/blog/post-04-best-3d-print-shop-management-software-2026",
+      "title": "Best 3D Print Shop Management Software 2026",
+      "quote": "Manuflo vs. Printago",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:homeschool",
+      "url": "https://homeschoolmoment.com/best-homeschool-record-keeping-apps",
+      "title": "Best Homeschool Record-Keeping Apps 2026",
+      "quote": "Ranked & Reviewed",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:faire",
+      "url": "https://ecommerce-times.com/faires-alleged-push-to-cut-wholesale-margins-sparks-retailer-revolt/",
+      "title": "Faire's Alleged Push to Cut Wholesale Margins",
+      "quote": "has not been publicly announced",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    }
+  ]
+}
