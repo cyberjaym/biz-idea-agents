@@ -4,5 +4,10 @@
   "MAX_WEEKLY_SPEND": 50,
   "MIN_SCORE_TO_AUTOBUILD": 8,
   "TARGET_SUBREDDITS": [],
-  "EXCLUDED_CATEGORIES": []
+  "EXCLUDED_CATEGORIES": [
+    "accounting",
+    "bookkeeping",
+    "tax",
+    "payroll"
+  ]
 }

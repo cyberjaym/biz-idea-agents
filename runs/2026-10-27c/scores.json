@@ -1,0 +1,128 @@
+{
+  "ranked": [
+    {
+      "slug": "afterpub",
+      "name": "AfterPub (run 2)",
+      "scores": {
+        "demand": 9,
+        "wtp": 5,
+        "gap": 4,
+        "buildability": 6,
+        "distribution": 8
+      },
+      "total": 6.4
+    },
+    {
+      "slug": "renewdesk",
+      "name": "RenewDesk (run 1)",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.4
+    },
+    {
+      "slug": "inboxbridge",
+      "name": "InboxBridge (new)",
+      "scores": {
+        "demand": 9,
+        "wtp": 6,
+        "gap": 4,
+        "buildability": 4,
+        "distribution": 7
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "marginguard",
+      "name": "MarginGuard (run 1)",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 5,
+        "distribution": 6
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "renewalproof",
+      "name": "RenewalProof (run 1)",
+      "scores": {
+        "demand": 5,
+        "wtp": 6,
+        "gap": 6,
+        "buildability": 8,
+        "distribution": 5
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "feedready",
+      "name": "FeedReady (new)",
+      "scores": {
+        "demand": 6,
+        "wtp": 6,
+        "gap": 4,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 5.8
+    },
+    {
+      "slug": "reviewvault",
+      "name": "ReviewVault (run 3)",
+      "scores": {
+        "demand": 7,
+        "wtp": 5,
+        "gap": 4,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 5.8
+    },
+    {
+      "slug": "agendaready",
+      "name": "AgendaReady (new)",
+      "scores": {
+        "demand": 6,
+        "wtp": 6,
+        "gap": 5,
+        "buildability": 6,
+        "distribution": 4
+      },
+      "total": 5.4
+    },
+    {
+      "slug": "teamcal",
+      "name": "FamilyFixtures (new)",
+      "scores": {
+        "demand": 6,
+        "wtp": 3,
+        "gap": 4,
+        "buildability": 7,
+        "distribution": 5
+      },
+      "total": 5.0
+    }
+  ],
+  "excluded_by_user": [
+    "tagback",
+    "otledger"
+  ],
+  "rejected": {
+    "hvac-refrigerant-er&r": "RefriTrak (free-$49.99), RefriComply ($29-99), RefrigerantTrack, FMHero, Field Ascend.",
+    "fl-condo-25-unit-websites": "Mosaic HOA, Conduu, Urbi and others already serving.",
+    "fsma-204": "Deadline moved to July 2028; Croptracker, FoodReady, ReliaMag etc.",
+    "course-platforms (Kajabi/Thinkific hikes)": "Podia, Skool, Circle, LearnWorlds, Payhip.",
+    "tenant-deposit-evidence": "door.lease, DepositProof, Evidence Vault.",
+    "pet-sitter-booking (Rover fees)": "Time To Pet, Scritches, Pupline.",
+    "eventbrite": "No 2026 fee hike; Luma/Eventcube/TickPick exist.",
+    "ios26-call-screening": "Numeracle, Caller ID Reputation, Hiya.",
+    "postman-free-plan": "Bruno, Hoppscotch, Insomnia, Yaak."
+  },
+  "any_above_threshold": false
+}

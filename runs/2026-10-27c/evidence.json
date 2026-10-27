@@ -1,0 +1,209 @@
+{
+  "run": "2026-10-27c",
+  "excluded": [
+    "accounting",
+    "bookkeeping",
+    "tax",
+    "payroll"
+  ],
+  "evidence": [
+    {
+      "cluster": "gmail-pop-fetch-ending",
+      "url": "https://support.google.com/mail/answer/16604719?hl=en",
+      "title": "Learn about upcoming changes to Gmailify & POP in Gmail (Google)",
+      "quote": "Starting January 2027, Gmail will no longer support these features.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "platform-docs",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "gmail-pop-fetch-ending",
+      "url": "https://news.ycombinator.com/item?id=46763892",
+      "title": "Ask HN: How are you handling Gmail ending POP3 and Gmailify?",
+      "quote": "How are you handling Gmail ending POP3 and Gmailify?",
+      "date": "2026-01",
+      "upvotes": null,
+      "source_type": "hacker-news",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "gmail-pop-fetch-ending",
+      "url": "https://www.theregister.com/2026/01/05/gmail_dropping_pop3/",
+      "title": "Gmail preparing to drop POP3 mail fetching (The Register)",
+      "quote": "Gmail preparing to drop POP3 mail fetching",
+      "date": "2026-01-05",
+      "upvotes": null,
+      "source_type": "news",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "gmail-pop-fetch-ending",
+      "url": "https://www.techrepublic.com/article/news-gmail-ends-gmailify-pop3/",
+      "title": "Gmail Says Goodbye to Gmailify and POP3 (TechRepublic)",
+      "quote": "pushing users toward forwarding or IMAP in the mobile app",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "news",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "gmail-pop-fetch-ending",
+      "url": "https://mailbridge.app/compare/",
+      "title": "MailBridge vs Alternatives: Gmail POP Fetch Replacements (2026)",
+      "quote": "Compare Gmail POP Fetch Replacements",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "gmail-pop-fetch-ending",
+      "url": "https://deepstrike.io/blog/google-casa-security-assessment-2025",
+      "title": "Google CASA security assessment",
+      "quote": "the assessment has to be redone every 12 months",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "chatgpt-shopping-feeds",
+      "url": "https://cospark.com/blog/woocommerce-chatgpt/",
+      "title": "Getting Your WooCommerce Products into ChatGPT Shopping (2026)",
+      "quote": "must register with OpenAI's merchant program manually and submit a separate product feed",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "agency-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "chatgpt-shopping-feeds",
+      "url": "https://nightjar.so/blog/how-to-get-your-products-on-chatgpt-and-google-ai-mode-shopping",
+      "title": "How to Show Up in ChatGPT Shopping and Google AI Mode (2026)",
+      "quote": "ChatGPT Shopping switched to product feeds and many stores lost visibility overnight",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "chatgpt-shopping-feeds",
+      "url": "https://www.feedagentx.com/blog/best-woocommerce-product-feed-plugins/",
+      "title": "Best WooCommerce product feed plugins in 2026",
+      "quote": "Product Feed PRO ... $199 a year with a free ChatGPT feed",
+      "date": "2026-10",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "ada-title-ii-public-docs",
+      "url": "https://www.duanemorris.com/alerts/doj_extends_ada_title_ii_digital_accessibility_deadlines_one_year_0426.html",
+      "title": "DOJ Extends ADA Title II Digital Accessibility Deadlines by One Year",
+      "quote": "DOJ Extends ADA Title II Digital Accessibility Deadlines by One Year",
+      "date": "2026-04",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "ada-title-ii-public-docs",
+      "url": "https://www.equalweb.com/blog/ada-title-ii-pdf-documents-deadline/",
+      "title": "ADA Title II and PDFs: The April 2027 Document Deadline",
+      "quote": "since a template fix compounds every month",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "youth-sports-family-calendar",
+      "url": "https://teachhoops.com/sammi-app-sports-parents/",
+      "title": "Sammi App for Sports Parents",
+      "quote": "One Calendar for Youth Sports Chaos",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "blog",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "youth-sports-family-calendar",
+      "url": "https://www.castapp.info/best-youth-sports-apps/",
+      "title": "10 Best Youth Sports Apps in 2026",
+      "quote": "each team in TeamSnap is a separate silo with no unified family view",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:refrigerant-er&r",
+      "url": "https://www.refricomply.com/blog/best-refrigerant-tracking-software-2026/",
+      "title": "Best Refrigerant Tracking Software 2026",
+      "quote": "$29/month (Solo, 1 user, 50 systems)",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:fl-condo-websites",
+      "url": "https://mosaichoa.com/blog/florida-condo-hoa-website-compliance-2026/",
+      "title": "Florida Condo & HOA Website Compliance 2026",
+      "quote": "Florida Condo & HOA Website Compliance 2026",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:course-platforms",
+      "url": "https://www.group.app/blog/kajabi-review/",
+      "title": "Kajabi Review 2026",
+      "quote": "Basic plan went from $149 to $179 a month",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:tenant-deposit",
+      "url": "https://www.depositdeadline.com/evidence-vault",
+      "title": "Evidence Vault",
+      "quote": "exports a court-ready evidence report",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:rover-sitters",
+      "url": "https://scritches.io/blog/rover-tiered-fees",
+      "title": "Rover's New Tiered Fees",
+      "quote": "Why Clients Now Cost You 30%",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor/blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    }
+  ]
+}
