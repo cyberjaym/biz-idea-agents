@@ -1,0 +1,38 @@
+{
+  "ranked": [
+    {
+      "slug": "sellerdeadline",
+      "name": "SellerDeadline (2027 seller-compliance radar)",
+      "scores": {
+        "demand": 8,
+        "wtp": 7,
+        "gap": 7,
+        "buildability": 6,
+        "distribution": 7
+      },
+      "total": 7.0
+    },
+    {
+      "slug": "scriptscan",
+      "name": "ScriptScan (Shopify March 2027 readiness)",
+      "scores": {
+        "demand": 6,
+        "wtp": 5,
+        "gap": 7,
+        "buildability": 8,
+        "distribution": 7
+      },
+      "total": 6.6
+    }
+  ],
+  "related_prior": {
+    "BundleGuard": 7.2,
+    "FCCReady": 6.6
+  },
+  "rejected": {
+    "google-500px-images": "Google auto-optimizes many small images",
+    "youtube-ypp-thresholds": "growth-tool market crowded",
+    "cbp-type13-postal": "filing requires customs filer; regulated",
+    "walmart-inactivity": "trivial"
+  }
+}

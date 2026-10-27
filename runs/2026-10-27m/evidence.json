@@ -1,0 +1,96 @@
+{
+  "run": "2026-10-27m",
+  "approach": "platform policy changes announced Aug-Oct 2026, effective late 2026/2027",
+  "evidence": [
+    {
+      "cluster": "shopify-2027",
+      "url": "https://learnshopify.dev/blog/shopify-script-tags-deprecated",
+      "title": "Shopify script tags are being switched off: the two dates that matter",
+      "quote": "Shopify stops injecting script tags into storefronts on March 1, 2027",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "shopify-2027",
+      "url": "https://weaverse.io/blogs/shopify-expiring-offline-access-tokens-january-2027-public-apps-migration",
+      "title": "Shopify Expiring Offline Tokens: Jan 1, 2027 Deadline",
+      "quote": "Jan 1, 2027 Deadline",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "dev-blog",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "shopify-2027",
+      "url": "https://community.shopify.dev/t/two-shopify-deadlines-land-9-weeks-apart-in-q1-2027-i-think-a-lot-of-apps-won-t-make-it-past-them/38711",
+      "title": "Shopify Dev Community: Two deadlines 9 weeks apart in Q1 2027",
+      "quote": "I think a lot of apps won't make it past them",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "dev-community",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "shopify-2027",
+      "url": "https://www.insiteful.com.au/shopify-storefront-script-audit/",
+      "title": "Insiteful: storefront script audit before cutoff",
+      "quote": "The Storefront Script Audit and Loading Architecture We Build Before the Cutoff",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "agency",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "google-merchant-images",
+      "url": "https://support.google.com/merchants/answer/16989427?hl=en",
+      "title": "Merchant Center product data specification update 2026 (Google)",
+      "quote": "minimum resolution ... 500x500 pixels",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "platform-docs",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "amazon-bundles",
+      "url": "https://ppc.land/amazon-gives-bundle-sellers-4-months-to-get-brand-approval-or-lose-listings/",
+      "title": "PPC Land: Amazon bundle policy",
+      "quote": "4 months to get brand approval or lose listings",
+      "date": "2026-09",
+      "upvotes": null,
+      "source_type": "trade-news",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "etsy-ai-and-customs",
+      "url": "https://www.inkfluenceai.com/blog/etsy-ai-rules-update-october-2026",
+      "title": "Etsy's New AI Rules (October 2026)",
+      "quote": "What Changed for Sellers",
+      "date": "2026-10",
+      "upvotes": null,
+      "source_type": "blog",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "etsy-ai-and-customs",
+      "url": "https://ppc.land/etsy-forces-sellers-to-show-one-unaltered-photo-in-every-listing/",
+      "title": "Etsy forces sellers to show one unaltered photo in every listing",
+      "quote": "one unaltered photo in every listing",
+      "date": "2026-10",
+      "upvotes": null,
+      "source_type": "trade-news",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "youtube-ypp-2027",
+      "url": "https://support.google.com/youtube/answer/12843009?hl=en",
+      "title": "Changes to the YouTube Partner Program (YouTube Help)",
+      "quote": "Changes to the YouTube Partner Program",
+      "date": "2026-08",
+      "upvotes": null,
+      "source_type": "platform-docs",
+      "attribution_confidence": "high"
+    }
+  ]
+}
