@@ -1,0 +1,17 @@
+{
+  "tagback": [
+    "tagback.app",
+    "tagback.io",
+    "gettagback.com"
+  ],
+  "afterpub": [
+    "afterpub.com",
+    "afterpub.app",
+    "afterpublisher.com"
+  ],
+  "scanrelay": [
+    "scanrelay.app",
+    "scanrelay.io",
+    "relayforscanners.com"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "run": "2026-10-27",
+  "method": "WebSearch only; targeted vendor communities (Microsoft Q&A, QuickBooks, Shopify, Airbnb), Trustpilot, Product Hunt, review sites",
+  "notes": "Reddit/HN/Porkbun still blocked by network policy; WebFetch blocked. Quotes are search excerpts. first_hand=true marks posts by affected users.",
+  "evidence": [
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://quickbooks.intuit.com/community/reports-and-accounting-5/anyone-else-suddenly-lost-tags-feature-375321",
+      "title": "Anyone else suddenly lost Tags feature?",
+      "quote": "Custom fields does NOT have the same capability as tags.",
+      "date": "2026-07",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://quickbooks.intuit.com/community/reports-and-accounting-5/anyone-else-suddenly-lost-tags-feature-375321",
+      "title": "Anyone else suddenly lost Tags feature? (moderator reply)",
+      "quote": "the Tags management option under Settings is being removed for accounts that have been updated to the new experience",
+      "date": "2026-07-30",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/reports-and-accounting/tags-migration-to-custom-fields-incomplete-functionality/00/1547324",
+      "title": "Tags migration to custom fields - incomplete functionality",
+      "quote": "cannot run PnL report for custom fields the way you can run it for the tag groups",
+      "date": "2025-2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/banking/custom-field-in-bank-deposit/00/1536420",
+      "title": "CUSTOM FIELD IN BANK DEPOSIT",
+      "quote": "custom fields values cannot be assigned on the bank transaction categorization screen",
+      "date": "2025-2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/help-article/class-list/tag-transactions-quickbooks-online/L7x3G0aLv_US_en_US",
+      "title": "Custom fields and tagging in QuickBooks (Intuit help)",
+      "quote": "Asked whether a P&L can be created by custom field, Intuit answers no",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-docs",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://gentlefrog.com/quickbooks-tags-are-being-discontinued/",
+      "title": "QuickBooks Tags Are Being Discontinued (Gentle Frog)",
+      "quote": "Tags had been particularly helpful for users on Simple Start and Essentials, who don't have access to class tracking",
+      "date": "2025",
+      "upvotes": null,
+      "source_type": "bookkeeper-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qbo-tags-removal",
+      "url": "https://help.developer.intuit.com/s/article/platform-service-fees",
+      "title": "Intuit App Partner Program platform fees",
+      "quote": "Builder tier is completely free ... 500,000 CorePlus credits a month",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "platform-docs",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/5773729/why-cant-microsoft-create-a-way-to-convert-from-pu",
+      "title": "Why can't Microsoft create a way to convert from Publisher to Word? We have thousands of Publisher files.",
+      "quote": "We have thousands of Publisher files.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/5852051/after-this-date-you-will-no-longer-be-able-to-open",
+      "title": "After this date, you will no longer be able to open or edit these files",
+      "quote": "you will no longer be able to open or edit these files with Microsoft Publisher",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/5396035/ive-been-using-publisher-for-more-than-25-years-wh",
+      "title": "I've been using Publisher for more than 25 years...",
+      "quote": "I've been using Publisher for more than 25 years.",
+      "date": "2025-2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://learn.microsoft.com/en-us/answers/questions/6000817/what-will-happen-to-existing-pub-files-after-micro",
+      "title": "What will happen to existing .PUB files after Microsoft Publisher is discontinued?",
+      "quote": "What will happen to existing .PUB files after Microsoft Publisher is discontinued?",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://www.resourceumc.org/en/content/after-publisher-bulletin-and-newsletter-tools-for-every-budget",
+      "title": "After Publisher: bulletin and newsletter tools for every budget (UMC)",
+      "quote": "just one template away from continuing their current workflow in Word",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "denomination-guide",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://univik.com/file/converter/pub.html",
+      "title": "Univik PUB File Converter",
+      "quote": "converts the first 10 pages of each document",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "publisher-retirement",
+      "url": "https://publishmediasoftware.com/church-bulletin-maker",
+      "title": "Publish Media church bulletin maker",
+      "quote": "All-Access ($99/yr) or Monthly ($9.99/mo)",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor-pricing",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "exchange-smtp-basic-auth",
+      "url": "https://mysmtp.com/blog/2026/01/28/microsoft-is-pulling-the-plug-on-smtp-auth-in-exchange-december-2026/",
+      "title": "Microsoft Is Pulling the Plug on SMTP AUTH in Exchange — December 2026",
+      "quote": "disables it by default in late December 2026 for existing tenants",
+      "date": "2026-01-28",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "exchange-smtp-basic-auth",
+      "url": "https://justtech.com/microsoft-disabling-basic-authentication-for-smtp-auth-what-it-means-for-scan-to-email/",
+      "title": "What It Means for Scan-to-Email (Just Tech)",
+      "quote": "Vendors often ship firmware that only supports Basic Authentication.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "msp-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "exchange-smtp-basic-auth",
+      "url": "https://learn.microsoft.com/en-au/answers/questions/1879579/multi-function-printers-and-smtp-auth-deprecation",
+      "title": "Multi Function Printers and SMTP Auth deprecation (MS Q&A)",
+      "quote": "Multi Function Printers and SMTP Auth deprecation",
+      "date": "2024-2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "exchange-smtp-basic-auth",
+      "url": "https://www.capterra.com/p/166646/SMTP2GO/",
+      "title": "SMTP2GO on Capterra",
+      "quote": "1,000 emails per month, a 200 emails per day cap",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor-pricing",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "saas-autorenew-traps(rejected)",
+      "url": "https://www.trustpilot.com/review/birdeye.com",
+      "title": "Birdeye Reviews (Trustpilot)",
+      "quote": "automatically debited $9,240.18 from our credit card",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "review-site",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "saas-autorenew-traps(rejected)",
+      "url": "https://renewly.gg/blog/contract-renewal-software-guide",
+      "title": "Contract renewal software: 9 tools compared (2026)",
+      "quote": "free plan for 5 contracts",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "shopify-stocky(rejected)",
+      "url": "https://community.shopify.com/t/stocky-replacement/621332",
+      "title": "Stocky replacement?",
+      "quote": "Shopify's native purchase-order feature takes far longer to use",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "airbnb-host-fee(rejected)",
+      "url": "https://community.withairbnb.com/t5/Help-with-your-business/Big-Changes-Coming-How-is-everyone-handling-the-new-15-5-Airbnb/m-p/2272027",
+      "title": "Big Changes Coming: the new 15.5% Airbnb fee",
+      "quote": "harder to quickly gauge how to price and what the payout will look like",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    }
+  ]
+}

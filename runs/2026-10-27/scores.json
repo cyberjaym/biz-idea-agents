@@ -1,0 +1,91 @@
+{
+  "weights": "equal mean",
+  "ranked": [
+    {
+      "slug": "tagback",
+      "name": "TagBack",
+      "cluster": "qbo-tags-removal",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 8,
+        "buildability": 6,
+        "distribution": 7
+      },
+      "total": 7.0
+    },
+    {
+      "slug": "afterpub",
+      "name": "AfterPub",
+      "cluster": "publisher-retirement",
+      "scores": {
+        "demand": 9,
+        "wtp": 5,
+        "gap": 4,
+        "buildability": 6,
+        "distribution": 8
+      },
+      "total": 6.4
+    },
+    {
+      "slug": "renewdesk",
+      "name": "RenewDesk (carried from 10-26)",
+      "cluster": "cert-renewal-msp",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.4
+    },
+    {
+      "slug": "marginguard",
+      "name": "MarginGuard (carried)",
+      "cluster": "tariff-landed-margin",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 5,
+        "distribution": 6
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "renewalproof",
+      "name": "RenewalProof (carried)",
+      "cluster": "auto-renewal-compliance",
+      "scores": {
+        "demand": 5,
+        "wtp": 6,
+        "gap": 6,
+        "buildability": 8,
+        "distribution": 5
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "scanrelay",
+      "name": "ScanRelay",
+      "cluster": "exchange-smtp-basic-auth",
+      "scores": {
+        "demand": 8,
+        "wtp": 6,
+        "gap": 3,
+        "buildability": 4,
+        "distribution": 6
+      },
+      "total": 5.4
+    }
+  ],
+  "rejected": {
+    "shopify-stocky": "Retired Aug 31 2026; 8+ replacement apps ($19.99-$99/mo).",
+    "saas-autorenew-tracker": "Timemy, oboloo, Renewly, Contract Hound already cover notice-period tracking.",
+    "airbnb-15.5-fee": "Free calculators + direct-booking platforms (Hostfully, Lodgify, Boostly).",
+    "qbd-2023-sunset": "Migration services crowded (MMC Convert etc.).",
+    "relay.app/arc-shutdowns": "Absorbed by Zapier/Make/n8n and other browsers."
+  },
+  "any_above_threshold": false
+}
