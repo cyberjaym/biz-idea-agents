@@ -6,7 +6,7 @@
 
 | # | Name | Total | D | W | G | B | Dist | Client data? |
 |---|------|------:|--:|--:|--:|--:|--:|---|
-| 1 | **SuperviseMatch** (find, contract and pay clinical supervisors) | 6.6 | 7 | 7 | 7 | 6 | 6 | None (no case content hosted) |
+| 1 | ~~SuperviseMatch~~ (re-scored about 5.0 after competitor check: Motivo, The Supervision App, Guidara, directories) | 5.0 | 7 | 7 | 2 | 6 | 6 | None |
 | 2 | **RiskCheck** (30-minute annual HIPAA risk analysis for solo therapists) | 6.2 | 6 | 6 | 5 | 8 | 6 | None (about systems, not clients) |
 | 3 | PanelTrack (insurance-panel application tracker for 3–15 clinician groups) | 5.8 | 6 | 6 | 5 | 7 | 5 | None |
 | 4 | Openings exchange (therapist-to-therapist "who has openings") | 5.6 | 7 | 4 | 4 | 7 | 6 | De-identified needs only |
