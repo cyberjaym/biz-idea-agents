@@ -1,0 +1,35 @@
+{
+  "ranked": [
+    {
+      "slug": "bundleguard",
+      "name": "BundleGuard",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 8,
+        "buildability": 7,
+        "distribution": 7
+      },
+      "total": 7.2
+    },
+    {
+      "slug": "craready",
+      "name": "CRA Ready (EU Cyber Resilience Act for small makers)",
+      "scores": {
+        "demand": 6,
+        "wtp": 7,
+        "gap": 5,
+        "buildability": 5,
+        "distribution": 6
+      },
+      "total": 5.8
+    }
+  ],
+  "rejected": {
+    "uk-companies-house-idv": "deadline Nov 18 2026 too close; many ACSP/IDV providers",
+    "uk-employment-rights-act": "BrightHR, Breathe, Peninsula, Xero guides",
+    "eu-ppwr-epr": "Lovat, Lappa, ecosistant, EBM; marketplaces building portals"
+  },
+  "note": "BundleGuard 7.2 is the highest total of all 14 runs.",
+  "any_above_threshold": false
+}

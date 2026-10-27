@@ -1,0 +1,106 @@
+{
+  "run": "2026-10-27l",
+  "approach": "fresh changes: EU/UK 2026-27 rules and platform policies",
+  "evidence": [
+    {
+      "cluster": "amazon-bundle-policy-2027",
+      "url": "https://ppc.land/amazon-gives-bundle-sellers-4-months-to-get-brand-approval-or-lose-listings/",
+      "title": "Amazon gives bundle sellers 4 months to get brand approval or lose listings",
+      "quote": "4 months to get brand approval or lose listings",
+      "date": "2026-09",
+      "upvotes": null,
+      "source_type": "trade-news",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "amazon-bundle-policy-2027",
+      "url": "https://www.ecomcrew.com/amazon-product-bundling-rules-change-on-january-11-2027/",
+      "title": "Amazon Product Bundling Rules Change on January 11, 2027 (EcomCrew)",
+      "quote": "Amazon Product Bundling Rules Change on January 11, 2027",
+      "date": "2026-09",
+      "upvotes": null,
+      "source_type": "seller-media",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "amazon-bundle-policy-2027",
+      "url": "https://selleressentials.com/amazon-bundle-policy-2027/",
+      "title": "Amazon Bundle Policy Change January 11, 2027 Explained",
+      "quote": "the bundle is deactivated no matter how much stock remains",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "amazon-bundle-policy-2027",
+      "url": "https://damlawfirm.com/blog/amazon-bundling-policy-january-2027/",
+      "title": "Amazon Bundling Policy January 2027 (DAM Law Firm)",
+      "quote": "What Changes and What to Do Now",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "amazon-bundle-policy-2027",
+      "url": "https://sellershorts.com/resources/blog/amazon-bundle-rules-january-2027-requalify",
+      "title": "Amazon Bundle Rules Hit January 2027: Requalify Now",
+      "quote": "Requalify Now",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "seller-media",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "amazon-bundle-policy-2027",
+      "url": "https://www.smartscout.com/blog/amazon-seller-statistics",
+      "title": "Amazon Seller Statistics (2026)",
+      "quote": "1.9 million active sellers globally in 2025",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "data",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "eu-cra",
+      "url": "https://www.crowell.com/en/insights/client-alerts/its-live-the-cyber-resilience-act-reporting-is-mandatory-as-of-today-11-september-2026",
+      "title": "CRA reporting live (Crowell)",
+      "quote": "Reporting Is Mandatory as of Today",
+      "date": "2026-09-11",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "uk-companies-house-idv",
+      "url": "https://www.consulting-hive.com/post/companies-house-id-verification-where-things-actually-stand-now",
+      "title": "Companies House ID Verification: 2026 Update",
+      "quote": "nearly four million had verified",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "uk-employment-rights-act",
+      "url": "https://www.lewissilkin.com/insights/2026/10/15/whats-in-the-employment-rights-act",
+      "title": "What's in the Employment Rights Act? (Lewis Silkin)",
+      "quote": "What's in the Employment Rights Act?",
+      "date": "2026-10-15",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "eu-ppwr",
+      "url": "https://www.hypersku.com/blog/ppwr-2026/",
+      "title": "PPWR: The EU Packaging Regulation Every E-Commerce Seller Needs to Know",
+      "quote": "must check seller registrations before activating listings",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "attribution_confidence": "medium"
+    }
+  ]
+}
