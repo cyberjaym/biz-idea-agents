@@ -1,0 +1,70 @@
+{
+  "ranked": [
+    {
+      "slug": "hirenotice",
+      "name": "HireNotice",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 6,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.6
+    },
+    {
+      "slug": "hrislint",
+      "name": "HRIS Lint",
+      "scores": {
+        "demand": 6,
+        "wtp": 7,
+        "gap": 6,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 6.4
+    },
+    {
+      "slug": "hrlegacyvault",
+      "name": "HR Legacy Vault",
+      "scores": {
+        "demand": 6,
+        "wtp": 7,
+        "gap": 6,
+        "buildability": 6,
+        "distribution": 5
+      },
+      "total": 6.0
+    },
+    {
+      "slug": "leavemap",
+      "name": "LeaveMap",
+      "scores": {
+        "demand": 7,
+        "wtp": 6,
+        "gap": 4,
+        "buildability": 6,
+        "distribution": 5
+      },
+      "total": 5.6
+    },
+    {
+      "slug": "eupayready",
+      "name": "EU PayReady",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 4,
+        "buildability": 5,
+        "distribution": 4
+      },
+      "total": 5.4
+    }
+  ],
+  "note": "Scores assume no insider advantage; the user's HR-systems background should raise Distribution and Buildability for whichever niche they know best.",
+  "rejected": {
+    "lattice-hris-migration": "Shutdown already passed (Jul/Aug 2026); migration vendors crowded.",
+    "pay-transparency-job-posting-checker": "Free checkers exist (run 1)."
+  },
+  "any_above_threshold": false
+}

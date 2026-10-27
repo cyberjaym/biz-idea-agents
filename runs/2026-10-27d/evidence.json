@@ -1,0 +1,204 @@
+{
+  "run": "2026-10-27d",
+  "focus": "HR systems (user's domain); payroll calculation excluded",
+  "evidence": [
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://www.manatt.com/insights/newsletters/employment-law/ai-assisted-hiring-faces-a-new-compliance-landscape-in-2026-california-and-illinois-put-discriminatory-impact-and-transparency-front-and-center",
+      "title": "AI-Assisted Hiring Faces a New Compliance Landscape in 2026 (Manatt)",
+      "quote": "California and Illinois Put Discriminatory Impact and Transparency Front and Center",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://siftfirst.com/compliance/ai-hiring-laws-by-state",
+      "title": "AI Hiring Laws by State: The 2026 Employer Tracker",
+      "quote": "covers employers with one or more employees",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "tracker",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://workintelhub.com/blogs/ai-hiring-laws-by-state",
+      "title": "AI Hiring Laws by State (2026)",
+      "quote": "Draft notice rules were withdrawn in June 2026",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "tracker",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://www.crowell.com/en/insights/client-alerts/colorado-hits-reset-on-ai-regulation-sb-26-189-repeals-and-reenacts-the-colorado-ai-act",
+      "title": "Colorado Hits Reset on AI Regulation: SB 26-189 (Crowell)",
+      "quote": "SB 26-189 Repeals and Reenacts the Colorado AI Act",
+      "date": "2026-05",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://www.buchalter.com/insights/colorado-rewrites-its-ai-law-what-employers-must-know-about-sb-26-189/",
+      "title": "Colorado Rewrites Its AI Law (Buchalter)",
+      "quote": "enforcement is already subject to a legal challenge",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://ailaborbrain.com/knowledge/what_is_the_best_ai_labor_law_compliance_software_in_2026_and_how_do_employers_actually_stay_compliant_with_state_ai_hiring_laws.php",
+      "title": "Best AI labor law compliance software 2026",
+      "quote": "$15,000–$80,000 annually for mid-market",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "blog",
+      "first_hand": false,
+      "attribution_confidence": "low"
+    },
+    {
+      "cluster": "ai-hiring-compliance-smb",
+      "url": "https://www.goethena.com/post/ai-in-hiring-5-employment-laws-every-hr-team-should-know-in-2027/",
+      "title": "AI in Hiring: 5 Employment Laws Every HR Team Should Know in 2027 (Ethena)",
+      "quote": "5 Employment Laws Every HR Team Should Know in 2027",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "hris-data-compliance-lint",
+      "url": "https://www.alphaapexgroup.com/blog/hris-selection-guide",
+      "title": "HRIS Selection: A Complete Guide (cites 2025-26 HR Systems Survey)",
+      "quote": "40% of buyers cited reporting functionality as a major gap",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "hris-data-compliance-lint",
+      "url": "https://bindbee.dev/feeds/blog/challenges-hr-system-integration-enterprise-needs",
+      "title": "Biggest Challenges in HR System Integration",
+      "quote": "inconsistent employee IDs between Workday and Deel will cause sync failures",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "hris-data-compliance-lint",
+      "url": "https://pulpstream.com/resources/blog/multi-state-paid-leave-2026",
+      "title": "Three New State Paid Leave Programs Are Now Live in 2026",
+      "quote": "operating under eight or more leave regimes simultaneously",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "hris-data-compliance-lint",
+      "url": "https://www.hrcloud.com/blog/best-hris-platforms-multi-state-compliance",
+      "title": "Best HRIS Platforms for Multi-State Compliance (2026)",
+      "quote": "Best HRIS Platforms for Multi-State Compliance",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "legacy-hr-data-vault",
+      "url": "https://www.workaxle.com/blog/kronos-workforce-central-end-of-life-migration",
+      "title": "Kronos Workforce Central End of Life Date: March 31, 2027",
+      "quote": "End of Life Date: March 31, 2027",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "legacy-hr-data-vault",
+      "url": "https://www.settledata.com/blog/ukg-migration-guide",
+      "title": "UKG Migration Guide",
+      "quote": "moving off Workforce Central is a reimplementation, not an upgrade",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "legacy-hr-data-vault",
+      "url": "https://clonepartner.com/blog/lattice-hris-shutdown-the-2026-migration-data-export-guide/",
+      "title": "Lattice HRIS Shutdown: 2026 Migration & Data Export Guide",
+      "quote": "Lattice HRIS access ends July 31, 2026, with all data deleted August 6",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "legacy-hr-data-vault",
+      "url": "https://www.calamari.io/blog/lattice-hris-is-shutting-down-how-to-migrate-without-the-enterprise-price-tag",
+      "title": "Lattice HRIS Is Shutting Down",
+      "quote": "Lattice HRIS Is Shutting Down",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor-blog",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "eu-pay-transparency",
+      "url": "https://www.morganlewis.com/pubs/2026/06/eu-pay-transparency-directive-the-deadline-for-transposition-has-passed-what-now",
+      "title": "EU Pay Transparency Directive: The Deadline for Transposition Has Passed (Morgan Lewis)",
+      "quote": "The Deadline for Transposition Has Passed",
+      "date": "2026-06",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "eu-pay-transparency",
+      "url": "https://axiosanalytics.com/en/resources/best-eu-pay-transparency-software-2026",
+      "title": "Most pay transparency software was built for the enterprise",
+      "quote": "The mid-market needs a different checklist.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "multi-state-pfml",
+      "url": "https://vicentellp.com/insights/employer-compliance-guide-state-family-medical-leave-laws-effective-2026/",
+      "title": "Employer Compliance Guide to State Leave Laws Effective in 2026",
+      "quote": "Employer Compliance Guide to State Family & Medical Leave Laws Effective in 2026",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "law-firm",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    }
+  ]
+}
