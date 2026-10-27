@@ -4,7 +4,7 @@
 
 | # | Name | Total | D | W | G | B | Dist | One line |
 |---|------|------:|--:|--:|--:|--:|--:|---|
-| 1 | **ConvertCheck** | 6.4 | 7 | 8 | 6 | 6 | 6 | Automated checks that data moved correctly between HR systems, for implementation teams. **Your field.** |
+| 1 | **ConvertCheck** | 6.6 | 7 | 8 | 6 | 6 | 6 | Automated checks that data moved correctly between HR systems, for implementation teams. **Your field.** |
 | 2 | **DescribeAI** | 6.4 | 8 | 8 | 5 | 6 | 5 | AI audio description for course and healthcare video at a fraction of $15–50/min |
 | 3 | **ClaimKit** | 6.4 | 7 | 7 | 6 | 6 | 6 | Rebuild your lost-belongings inventory after a fire or hurricane from photos, order history and statements |
 | 4 | CondoXray | 6.0 | 7 | 6 | 4 | 7 | 6 | Florida condo buyer risk report from association documents |
