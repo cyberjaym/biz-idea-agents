@@ -1,0 +1,50 @@
+{
+  "ranked": [
+    {
+      "slug": "otledger",
+      "name": "OT Ledger",
+      "cluster": "qualified-overtime-w2",
+      "scores": {
+        "demand": 8,
+        "wtp": 7,
+        "gap": 6,
+        "buildability": 7,
+        "distribution": 7
+      },
+      "total": 7.0
+    },
+    {
+      "slug": "tagback",
+      "name": "TagBack (run 2)",
+      "cluster": "qbo-tags-removal",
+      "scores": {
+        "demand": 7,
+        "wtp": 7,
+        "gap": 8,
+        "buildability": 6,
+        "distribution": 7
+      },
+      "total": 7.0
+    },
+    {
+      "slug": "reviewvault",
+      "name": "ReviewVault",
+      "cluster": "google-review-removals",
+      "scores": {
+        "demand": 7,
+        "wtp": 5,
+        "gap": 4,
+        "buildability": 7,
+        "distribution": 6
+      },
+      "total": 5.8
+    }
+  ],
+  "rejected": {
+    "vertical-saas (salon/studio, daycare, auto repair, nonprofit CRM, therapy EHR, property mgmt, church)": "Each already has low-cost challengers (GlossGenius, Givebutter/Zeffy, Little Green Light, Buildium, Breeze/Tithely, etc.); therapy EHR adds HIPAA burden.",
+    "fire-to-iris-1099": "Small filers already use Track1099/QBO; transmitting needs an IRS TCC (approval).",
+    "teams-connectors/tenor/outlook-lite/lens retirements": "Microsoft/Google provide replacements; tiny wedge.",
+    "scanrelay (run 2)": "Exchange SMTP basic-auth deadline reportedly pushed to 2H 2027; SMTP2GO covers it."
+  },
+  "any_above_threshold": false
+}

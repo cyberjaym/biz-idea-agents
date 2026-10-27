@@ -1,0 +1,193 @@
+{
+  "run": "2026-10-27b",
+  "method": "WebSearch only (vertical SaaS complaints, 2026 tax/payroll changes, platform retirements)",
+  "evidence": [
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/other-questions/new-qualified-overtime-compensation-tracking-not-working/00/1593712",
+      "title": "New Qualified Overtime Compensation Tracking Not Working",
+      "quote": "when it does put a number on the paycheck, it is wrong",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/employees-and-payroll/qualified-overtime-tracking-for-california-employers-quickbooks/00/1597786",
+      "title": "Qualified Overtime Tracking for California Employers - QBO Core Payroll",
+      "quote": "we cannot accurately track Qualified OT using what QB has provided",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/employees-and-payroll/new-qualified-overtime-compensation-tracking/00/1593295/page/5",
+      "title": "New Qualified Overtime Compensation Tracking (5+ pages)",
+      "quote": "manually determine and enter qualified overtime compensation on each paycheck",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/employees-and-payroll/qualified-overtime-tracking-quickbooks-desktop-enhanced-payroll/00/1592816",
+      "title": "Qualified Overtime Tracking QuickBooks Desktop Enhanced Payroll",
+      "quote": "current methods are not going to calculate the amount correctly if the person has daily overtime",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://quickbooks.intuit.com/learn-support/en-us/employees-and-payroll/will-quickbooks-be-filling-in-the-new-overtime-wage-deduction/00/1592943",
+      "title": "Will Quickbooks be filling in the new overtime wage deduction amount on the W-2's?",
+      "quote": "Will Quickbooks be filling in the new overtime wage deduction amount on the W-2's?",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor-community",
+      "first_hand": true,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://ohiocpa.com/for-the-public/news/2026/08/20/irs-releases-updated-w-2-guidance-for-reporting-qualified-overtime",
+      "title": "IRS releases updated W-2 guidance for reporting qualified overtime (Ohio CPA)",
+      "quote": "IRS releases updated W-2 guidance for reporting qualified overtime",
+      "date": "2026-08-20",
+      "upvotes": null,
+      "source_type": "professional-assoc",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://emazoo.com/hiring/overtime-w2-reporting-2026-employers/",
+      "title": "Qualified Overtime on 2026 W-2s: What Employers Must Track",
+      "quote": "must separately calculate and track the overtime premium throughout the year",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "guide",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://paypronext.com/Blog/California-Overtime-in-2026-What-Employers-Need-to-Know-About-New-IRS-Reporting-Rules",
+      "title": "California Overtime in 2026: New IRS Reporting Rules",
+      "quote": "daily 8-hour trigger, the 7th-consecutive-day rule ... generally does not qualify",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "payroll-vendor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "qualified-overtime-w2",
+      "url": "https://help.taxtools.com/article/4o02vpyyp4-reporting-qualified-overtime-2025-w-2",
+      "title": "CFS Tax Software: Reporting Qualified Overtime",
+      "quote": "Qualified Overtime Calculator module",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor",
+      "first_hand": false,
+      "attribution_confidence": "low"
+    },
+    {
+      "cluster": "tips-ttoc-w2",
+      "url": "https://www.inquirer.com/business/small-business/tax-deduction-tipped-workers-gratuity-20260902.html",
+      "title": "No tax on tips is here. What employers need to know for 2026",
+      "quote": "What employers need to know for 2026",
+      "date": "2026-09-02",
+      "upvotes": null,
+      "source_type": "news",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "tips-ttoc-w2",
+      "url": "https://rsmus.com/insights/tax-alerts/2026/no-tax-tips-final-rules-confirm-qualifying-occupations-tip-definition.html",
+      "title": "No tax on tips: final rules (RSM)",
+      "quote": "an exhaustive, closed list",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "professional",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "google-review-removals",
+      "url": "https://almcorp.com/news/google-business-profile-reviews-disappearing-investigation-july-2026/",
+      "title": "GBP Reviews Disappearing: Investigation Underway (July 2026)",
+      "quote": "roughly 4,600 reviews collected over years dropping to 63 within a day",
+      "date": "2026-07",
+      "upvotes": null,
+      "source_type": "agency-news",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "google-review-removals",
+      "url": "https://www.reviewflowz.com/blog/why-have-your-reviews-disappeared-from-google",
+      "title": "Why have your reviews disappeared from Google? June 2026",
+      "quote": "Google does not alert businesses when it removes a review",
+      "date": "2026-06",
+      "upvotes": null,
+      "source_type": "competitor-blog",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "google-review-removals",
+      "url": "https://support.google.com/business/answer/10313341?hl=en",
+      "title": "About missing or delayed reviews (Google)",
+      "quote": "the system may also mistakenly remove legitimate reviews",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "platform-docs",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "rejected:vertical-saas",
+      "url": "https://churchcms.app/why-small-churches-are-leaving-planning-center-and-what-they-are-using-instead-in-2026/",
+      "title": "Why small churches are leaving Planning Center",
+      "quote": "Every new feature costs extra.",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "competitor-blog",
+      "first_hand": false,
+      "attribution_confidence": "high"
+    },
+    {
+      "cluster": "rejected:vertical-saas",
+      "url": "https://www.g2.com/products/shopmonkey/pricing",
+      "title": "Shopmonkey pricing (G2)",
+      "quote": "significant price hikes without new features",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "review-site",
+      "first_hand": true,
+      "attribution_confidence": "medium"
+    },
+    {
+      "cluster": "rejected:fire-iris",
+      "url": "https://sovos.com/taxapedia/regulations/us-1099-fire-to-iris/",
+      "title": "What Is IRIS and How Do You File 1099s Now?",
+      "quote": "IRIS becomes the only electronic channel from January 1, 2027",
+      "date": "2026",
+      "upvotes": null,
+      "source_type": "vendor",
+      "first_hand": false,
+      "attribution_confidence": "medium"
+    }
+  ]
+}
